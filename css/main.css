@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto";
+}
+.cofee {
+    display: flex;
+    margin: 31px;
+    margin-left: 270px;
+}
+.header-link {
+        display: flex;
+        align-items: center;
+    }
+    .header-top {
+        margin-left: 97px;
+    }
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list {
+    margin-left: 30px;
+}
+.header-cart {
+    margin-left: 50px;
+    margin-right: 10px;
+}
+.header-cart1 {
+    margin-left: 8px;
+    margin-right: 270px;
+}
+.cofee-mugs {
+    background-image: url(../css/img/img\ 2.png);
+}
